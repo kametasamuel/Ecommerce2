@@ -1,0 +1,59 @@
+.navbar{
+    margin-top: 30px;
+}
+
+.navbar p{
+    margin-top: 15px;
+}
+.dropdown1{
+    display: flex;
+    margin-top: 15px;
+}
+.dropdown1 p{
+    margin-right: 10px;
+}
+.dropdown{
+    width: 80px;
+    height: 30px;
+    border: 0.2px solid rgb(172, 158, 158);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 13px;
+} 
+.sizes p{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background-color: aquamarine;
+    font-size:10px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rate{
+    margin-top: 10px;
+    font-size:10px;
+    font-weight: 300;
+    color: rgb(98, 200, 166);
+}
+.symbol{
+    margin-top: 0;
+    display: flex;
+}
+.symbol button{
+    height: 25px;
+    margin-top: 0;
+    margin-right: 5px;
+    font-size: 15px;
+    border: 0.5px solid black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    height: 500px;
+    margin-bottom: 30px;
+}
